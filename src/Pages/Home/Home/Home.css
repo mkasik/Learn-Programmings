@@ -1,0 +1,20 @@
+h3{
+    
+    font-size: 50px;
+    
+}
+.btn{
+   width:200px;
+   color: black;
+}
+.test{
+    margin-bottom: 300px;
+    margin-right: 600px;
+}
+
+@media only screen and (max-width: 600px) {
+    .home-image{
+        height: 300px;
+        width: 400px;
+    }
+  }
